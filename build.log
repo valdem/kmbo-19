@@ -1,0 +1,2 @@
+g++ -I. -g -c -o main.o main.cpp
+g++ -g -o llist llist.o main.o
